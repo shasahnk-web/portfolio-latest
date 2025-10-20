@@ -8,6 +8,15 @@ import { TextHover } from '../components/text-hover.component';
 export const InfoSection = () => {
 	return (
 		<div className='hero-section'>
+			<a
+				href='https://github.com/Abdullahiqbal2021/portfolio-latest'
+				target='_blank'
+				rel='noopener noreferrer'
+				className='github-ribbon'
+			>
+				<div>⭐ Star this repo</div>
+				<span></span>
+			</a>
 			<FloatingButton
 				label='About Me'
 				className='first'
