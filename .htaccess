@@ -1,0 +1,11 @@
+# Rewrite requests to index.html for client-side routing (Single Page App)
+Options -MultiViews
+RewriteEngine On
+
+# Serve existing files or directories directly
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# All other requests rewrite to index.html
+RewriteRule ^ index.html [L]
