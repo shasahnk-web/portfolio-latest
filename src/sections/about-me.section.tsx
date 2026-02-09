@@ -75,7 +75,7 @@ export const AboutMe = () => {
 			<div>
 				<div className='intro'>
 					<p style={{ marginTop: '20px' }}>
-						👋 Hey, I'm Abdullah Iqbal, a Full Stack Developer.
+						👋 Hey, I'm Aayush, a Full Stack Developer.
 					</p>
 					<p>
 						I've been working with <strong>React</strong> and{' '}

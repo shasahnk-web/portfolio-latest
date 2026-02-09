@@ -3,7 +3,6 @@ import { IoMailOutline } from 'react-icons/io5';
 
 import { FloatingButton } from '../components/floating-button';
 import { GlowLink } from '../components/glow-box-link';
-import { TextHover } from '../components/text-hover.component';
 
 export const InfoSection = () => {
 	return (
@@ -23,10 +22,7 @@ export const InfoSection = () => {
 				href='/#about-me'
 			/>
 			<p>Hi, I am</p>
-			<TextHover
-				text='ABDULLAH'
-				className='name'
-			/>
+			text='AAYUSH'
 			<p>Full Stack Developer</p>
 			<FloatingButton
 				label='Tech'
