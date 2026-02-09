@@ -5,19 +5,13 @@ const timeline = [
 		title: 'Certification',
 		items: [
 			{
-				title: 'Full Stack Developer',
-				place: 'House of Professionals (HOP)',
-				timePeriod: '2021 - 2022',
+				title: 'SMART TRAFFIC CONTROL SYSTEM & CS ID',
+				place: 'SIH',
+				timePeriod: '2025',
 				description: (
 					<ul>
-						<li>
-							Earned a Full Stack Development certification from the House of
-							Professional Developers.
-						</li>
-						<li>
-							Awarded for securing the top position in class, demonstrating
-							strong skills and commitment.
-						</li>
+						<li>Developed an innovative Smart Traffic Control System solution.</li>
+						<li>Recognized as CS ID for excellence in innovation.</li>
 					</ul>
 				),
 			},
