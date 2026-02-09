@@ -22,7 +22,10 @@ export const InfoSection = () => {
 				href='/#about-me'
 			/>
 			<p>Hi, I am</p>
-			text='AAYUSH'
+			<TextHover
+				text='AAYUSH'
+				className='name'
+			/>
 			<p>Full Stack Developer</p>
 			<FloatingButton
 				label='Tech'
