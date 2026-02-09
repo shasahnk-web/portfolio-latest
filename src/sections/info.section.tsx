@@ -3,6 +3,7 @@ import { IoMailOutline } from 'react-icons/io5';
 
 import { FloatingButton } from '../components/floating-button';
 import { GlowLink } from '../components/glow-box-link';
+import { TextHover } from '../components/text-hover.component';
 
 export const InfoSection = () => {
 	return (
