@@ -1,12 +1,11 @@
 {
 	"words": [
 		"Avenir",
-		"BSCS",
+		"MPDREC",
 		"Msql",
 		"Shadcnui",
 		"Sooperwizer",
-		"vite",
-		"Wimetrix"
+		"vite"
 	],
 	"ignorePaths": [
 		"package-lock.json",

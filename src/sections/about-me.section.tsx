@@ -2,30 +2,6 @@ import { SectionTitle } from '../components/section-title.component';
 
 const timeline = [
 	{
-		title: 'Experience',
-		items: [
-			{
-				title: 'Full Stack Developer',
-				place: '@Wimetrix',
-				timePeriod: '2022 - Present',
-				description: (
-					<ul>
-						<li>
-							Contributed significantly to the development of main project{' '}
-							<strong>Sooperwizer</strong>, a pivotal project for automating and
-							optimizing textile processes.
-						</li>
-						<li>
-							Designed and developed multiple interactive data visualization
-							dashboards.
-						</li>
-						<li>Built several Android applications using React Native.</li>
-					</ul>
-				),
-			},
-		],
-	},
-	{
 		title: 'Certification',
 		items: [
 			{
@@ -51,9 +27,9 @@ const timeline = [
 		title: 'Education',
 		items: [
 			{
-				title: 'Bachelor of Science in Computer Science (BSCS)',
-				place: 'Virtual University of Pakistan',
-				timePeriod: '2022 - Present',
+				title: 'B.TECH 2ND YEAR',
+				place: 'MPDREC GONDA',
+				timePeriod: '2025',
 				description: '',
 			},
 		],
